@@ -2,7 +2,7 @@
 
 A simple react app utilizing the github API to search for Github profiles making use of Context and hooks.
 
-
+![](images/Screenshot%202020-11-01%20at%2016.49.35.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
