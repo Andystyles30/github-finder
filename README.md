@@ -1,3 +1,9 @@
+## Github Finder
+
+A simple react app utilizing the github API to search for Github profiles making use of Context and hooks.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
